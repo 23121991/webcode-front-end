@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https//localhost8005/",
+  "proxy": "https://amazonbackend-i89u.onrender.com",
   "dependencies": {
     "@awsui/components-react": "^3.0.623",
     "@emotion/react": "^11.10.4",
