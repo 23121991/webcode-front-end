@@ -2,7 +2,6 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://amazonbackend-i89u.onrender.com",
   "dependencies": {
     "@awsui/components-react": "^3.0.623",
     "@emotion/react": "^11.10.4",
@@ -58,5 +57,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  }, "proxy": "https://amazonbackend-i89u.onrender.com"
 }
